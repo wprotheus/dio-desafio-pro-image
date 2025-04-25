@@ -45,10 +45,6 @@ pip install -r requirements.txt
 - Plotar gráfico
 - Plotar histograma
 
-
-
-https://pip.pypa.io/en/stable/installation/
-https://pip.pypa.io/en/stable/
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
 
